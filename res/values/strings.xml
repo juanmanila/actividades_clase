@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Prueba4</string>
+    <string name="hello_world">Actividad 1!</string>
+    <string name="hello_world2">Actividad 2!</string>
+    <string name="boton">Iniciar</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main_nueva">MainActivity</string>
+    
+
+</resources>
